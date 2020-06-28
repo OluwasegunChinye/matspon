@@ -179,11 +179,13 @@ ul li a:hover {
 }
 
 .item1 p {
-  text-align:left;
+  text-align:justify;
+  line-height: 25px;
 }
 
 .item2 {
  grid-column: 4/6;
+ line-height: 35px;
 }
 
 .container-two{
