@@ -128,9 +128,9 @@ export default {
   left: 5%;
 }
 
- ul {
-   margin: 0;
-   list-style-type: none;
+ul {
+  margin: 0;
+  list-style-type: none;
  }
 ul li {
   float : right;
