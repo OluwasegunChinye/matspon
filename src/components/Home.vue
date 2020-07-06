@@ -59,7 +59,7 @@
             5, Shakiru Adeoye Street, Ogudu, Lagos.<br>
             +234 802 853 4149 | +234 806 685 5349<br>
             matsponconsult@gmail.com<br>
-            <span>  <strong> &copy; 2020 Matspon Consult & Services Limited </strong></span><i class="material-icons"> coronavirus</i>
+            <span><strong> &copy; 2020 Matspon Consult & Services Limited </strong></span>
           </div>
       </div>
     </footer>
