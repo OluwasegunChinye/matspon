@@ -54,7 +54,7 @@
     <div class="main-three"></div>
     <footer id="contact-us">
       <div class="footers">
-        <h3>Matspon Consult & Services Limited <span>(RC12345)</span></h3>
+        <h3>Matspon Consult & Services Limited <span>(RC1444473)</span></h3>
           <div class="addy">
             5, Shakiru Adeoye Street, Ogudu, Lagos.<br>
             +234 802 853 4149 | +234 806 685 5349<br>
