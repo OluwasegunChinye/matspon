@@ -36,7 +36,7 @@
         <P ><strong>Matspon Consult & Sevices Limited</strong> is an indegenous company , we are client focused-business providing professional consultancy and support services in the area of Enviroment, Health and Safety, Project Management and much more. Today , Matspon Consult is strategically positioned to deliver beskpoke integrated solutions combining knowledge, expertise and expeience of our highly skilled partners on field  </P>
       </div>
       <div class="item2">
-        <p>HERE AT <strong>MATSPON CONSULT</strong>, WE ARE A TEAM OF PROFESSIONALS GUIDED AND INSPIRED BY OUR VISION TO PROVIDE SUSTAINABLE & INNOVATIVE SOLUTIONS IN CONSONANCE WITH BEST PRACTICES</p>
+        <p>HERE AT <strong>MATSPON CONSULT</strong>, WE ARE A TEAM OF PROFESSIONALS GUIDED AND INSPIRED BY OUR VISION TO PROVIDE SUSTAINABLE & INNOVATIVE SOLUTIONS IN CONSONANCE WITH BEST GLOBAL PRACTICES</p>
       </div>
     </div>
     <div class="main-two"></div>
