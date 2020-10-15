@@ -80,11 +80,11 @@ export default {
         {title: "Construction", icon: "engineering"},
         {title: "Logistics", icon: "local_shipping"},
         {title: "Agribusiness", icon: "eco"},
-        {title: "Oil and Gas", icon: "local_gas_station"},
+        {title: "Energy", icon: "highlight"},
         {title: "Project Management", icon: "build"},
-        {title: "Business Development", icon: "power"},
-        {title: "Tech", icon: "memory"},
-        {title: "Human Capacity Development", icon: "psychology"}
+        {title: "Business Development", icon: "trending_up"},
+        {title: "Tech", icon: "developer_mode"},
+        {title: "Human Capacity Development", icon: "emoji_events"}
 
       ]
     }
