@@ -76,14 +76,15 @@ export default {
     return {
       lists : [
         {title: "Health Safety Enviroment & Quality HSEQ", icon: "public"},
-        {title: "Procurement Services", icon: "assignment"},
-        {title: "Construction", icon: "construction"},
+        {title: "Procurement Services", icon: "addchart"},
+        {title: "Construction", icon: "engineering"},
         {title: "Logistics", icon: "local_shipping"},
-         {title: "Agribusiness", icon: "eco"},
+        {title: "Agribusiness", icon: "eco"},
         {title: "Oil and Gas", icon: "local_gas_station"},
-        {title: "Project Management", icon: "event"},
+        {title: "Project Management", icon: "build"},
         {title: "Business Development", icon: "power"},
-         {title: "Tech", icon: "memory"},
+        {title: "Tech", icon: "memory"},
+        {title: "Human Capacity Development", icon: "psychology"}
 
       ]
     }
@@ -113,7 +114,7 @@ export default {
   opacity: 0.7;
 }
 .main-three {
-  background-image: url("../assets/bk66.jpg");
+  background-image: url("../assets/bk55.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
